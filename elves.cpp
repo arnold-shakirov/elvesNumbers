@@ -41,7 +41,7 @@ int main() {
 			break;
 		}
 		else {
-			cout << "wtf no such response" << endl;
+			cout << "no such response" << endl;
 		}
 	}
 	cout << "answer is" << sum;
