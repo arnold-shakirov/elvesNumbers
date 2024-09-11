@@ -31,4 +31,4 @@ This is a simple C++ console program that takes a line of input, extracts the fi
 To compile the program, use the following command:
 
 ```bash
-g++ -o NumberSumCalculator main.cpp
+g++ -o elves elves.cpp
